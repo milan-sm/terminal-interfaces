@@ -1,0 +1,21 @@
+##############################################
+_             Mainframe Console               _
+##############################################
+_                                            _
+_   Welcome to the Mainframe Console         _
+_   Interface. Explore its features to       _
+_   manage your system efficiently.          _
+_                                            _
+_   Options:                                 _
+_   1. Monitor System Status                 _
+_   2. Manage User Access                    _
+_   3. Perform File Operations               _
+_   4. Configure Network Connections         _
+_   5. Set Security Protocols                _
+_   6. Access Application Control            _
+_   7. Review System Activity Logs           _
+_   8. Get Assistance and Support            _
+_   9. Advanced FTP Client                   _
+_   10. Exit                                 _
+_                                            _
+##############################################
