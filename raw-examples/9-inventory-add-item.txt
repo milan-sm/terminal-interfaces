@@ -1,0 +1,30 @@
+******************************************************
+*          Inventory Management - User: [Username]   *
+*                Date: 2024-02-12  Time: [Time]      *
+******************************************************
+*                                                    *
+*   Welcome to the Inventory Management Console      *
+*   Application. Explore its features to efficiently *
+*   manage your inventory and streamline operations. *
+*                                                    *
+*   Options:                                         *
+*   1. View Inventory                                *
+*   2. Add Item to Inventory                         *
+*   3. Remove Item                                   *
+*   4. Update Item Info                              *
+*   5. Search Inventory                              *
+*   6. Generate Report                               *
+*   7. Manage Suppliers                              *
+*   8. Review Sales                                  *
+*   9. Adjust Inventory Levels                       *
+*   10. Exit                                         *
+*                                                    *
+******************************************************
+*  Enter item details:                               *
+*  Item Name: _________________                      *
+*  Item Code: _________________                      *
+*  Quantity: _________________                       *
+*  Unit Price: _________________                     *
+*  Supplier: _________________                       *
+*  Expiry Date: _________________                    *
+******************************************************
