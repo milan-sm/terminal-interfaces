@@ -1,0 +1,13 @@
+--------------------------------------------------------
+              Mainframe Console Interface
+--------------------------------------------------------
+0 - System Status
+1 - User Management
+2 - File Operations
+3 - Network Configuration
+4 - Security Settings
+5 - Application Management
+6 - System Logs
+7 - Help
+--------------------------------------------------------
+Press: 10 To Exit
