@@ -1,0 +1,16 @@
+-------------------------------------------------------------------
+                      Inventory Management App
+           User: [Username]          Date: [Date]   Time: [Time]
+-------------------------------------------------------------------
+                         Edit Menu
+-------------------------------------------------------------------
+1. Edit Item Name
+2. Edit Category
+3. Edit Location
+4. Edit Quantity
+5. Edit Price
+6. Save Changes
+7. Cancel Changes
+
+Enter option number to edit:
+-------------------------------------------------------------------
