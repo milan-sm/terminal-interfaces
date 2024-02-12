@@ -1,2 +1,2 @@
 # terminal-interfaces
-Headers/Menus for Terminal 
+Headers/Menus for Terminal - Ideas/Examples
