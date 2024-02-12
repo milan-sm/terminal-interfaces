@@ -1,0 +1,25 @@
+*********************************************************************
+|                         Directory Listing Menu                    |
+*********************************************************************
+| 1. List All Files                                                 |
+| 2. List Files by Extension                                        |
+| 3. List Files by Size                                             |
+| 4. List Files by Date                                             |
+| 5. Search for File                                                |
+| 6. View File Details                                              |
+| 7. Manage File Permissions                                        |
+| 8. Navigate to Another Directory                                  |
+| 9. Exit Directory Listing Menu                                    |
+*********************************************************************
+
+Enter your choice: 3
+
+*********************************************************************
+|                  Listing Files by Size                            |
+*********************************************************************
+| Filename           | Size (KB)                                    |
+*********************************************************************
+| Document1.txt      | 500                                          |
+| Report.pdf         | 1200                                         |
+| Image.jpg          | 800                                          |
+*********************************************************************
