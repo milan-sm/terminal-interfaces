@@ -1,0 +1,25 @@
+**********************************************************************
+*                  Welcome to Mainframe Console Interface            *
+**********************************************************************
+*                                                                    *
+*  This powerful mainframe console interface offers an extensive     *
+*  array of tools for seamless system management and control.        *
+*  Harness its capabilities to optimize your operations and          *
+*  streamline your workflow.                                         *
+*                                                                    *
+**********************************************************************
+*                    Main Menu Options                               *
+**********************************************************************
+*                                                                    *
+*  0 - System Status                                                 *
+*  1 - User Management                                               *
+*  2 - File Operations                                               *
+*  3 - Network Configuration                                         *
+*  4 - Security Settings                                             *
+*  5 - Application Management                                        *
+*  6 - System Logs                                                   *
+*  7 - Help & Support                                                *
+*                                                                    *
+**********************************************************************
+*  Press 10 to Exit                                                  *
+**********************************************************************
