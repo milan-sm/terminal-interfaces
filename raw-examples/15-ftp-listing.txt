@@ -1,0 +1,19 @@
+*********************************************************************
+|                        FTP Listing Menu                          |
+*********************************************************************
+| 1. List All Files                                                |
+| 2. List Files by Extension                                       |
+| 3. List Files by Size                                            |
+| 4. List Files by Date                                            |
+| 5. Search for File                                               |
+| 6. View File Details                                             |
+| 7. Download File                                                 |
+| 8. Upload File                                                   |
+| 9. Create Directory                                              |
+| 10. Delete File/Directory                                        |
+| 11. Rename File/Directory                                        |
+| 12. Change Directory                                             |
+| 13. Permissions                                                  |
+| 14. Refresh Listing                                              |
+| 15. Logout                                                       |
+*********************************************************************
