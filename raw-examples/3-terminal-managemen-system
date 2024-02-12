@@ -1,0 +1,13 @@
+--------------------------------------------------------
+             Terminal Management System
+--------------------------------------------------------
+0 - Connect to Remote Host
+1 - View Connection History
+2 - Configure Settings
+3 - Manage Sessions
+4 - View System Information
+5 - Send Command
+6 - Receive Data
+7 - Help & Support
+--------------------------------------------------------
+Press: 10 To Exit
