@@ -1,0 +1,13 @@
+--------------------------------------------------------
+           "Telnet Application"
+--------------------------------------------------------
+0 - Connect to Server
+1 - View Available Servers
+2 - Configure Settings
+3 - View Connection Status
+4 - Send Command
+5 - Receive Data
+6 - Manage Sessions
+7 - Help
+--------------------------------------------------------
+Press: 10 To Exit
