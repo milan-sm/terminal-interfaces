@@ -1,0 +1,31 @@
+*********************************************************************
+*                    Inventory Management App                      *
+*           User: [Username]          Date: [Date]   Time: [Time]  *
+*********************************************************************
+*                        View Inventory                            *
+*********************************************************************
+*   1. All                                                         *
+*   2. By Category                                                 *
+*   3. By Location                                                 *
+*                                                                  *
+*   Enter the corresponding number to select an option:            *
+*                                                                  *
+*********************************************************************
+
+
+Inventory Management App
+User: [Username]          Date: [Date]   Time: [Time]
+----------------------------------------------------
+View Inventory
+----------------------------------------------------
+| Item |   Name   |  Category  |  Location  |  Quantity  |  Price  |
+----------------------------------------------------
+|  1   | [Name]   | [Category] | [Location] | [Quantity] | [Price] |
+|  2   | [Name]   | [Category] | [Location] | [Quantity] | [Price] |
+|  3   | [Name]   | [Category] | [Location] | [Quantity] | [Price] |
+|  4   | [Name]   | [Category] | [Location] | [Quantity] | [Price] |
+|  5   | [Name]   | [Category] | [Location] | [Quantity] | [Price] |
+----------------------------------------------------
+Enter item number to view details:
+
+
