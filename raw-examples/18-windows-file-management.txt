@@ -1,0 +1,25 @@
+*********************************************************************
+|          Windows File Management Menu - User: [Username]         |
+|                        Date: [Date]   Time: [Time]               |
+*********************************************************************
+| 1. List All Files                                                |
+| 2. List Files by Extension                                       |
+| 3. List Files by Size                                            | 
+| 4. List Files by Date                                            |
+| 5. Search for File                                               |
+| 6. View File Details                                             |
+| 7. Open Command Prompt                                           |
+| 8. Run Python Script                                             |
+| 9. Set Access Control Settings                                   |
+| 10. Rename File/Directory                                        |
+| 11. Delete File/Directory                                        |
+| 12. Create Directory                                             |
+| 13. Copy File/Directory                                          |
+| 14. Move File/Directory                                          |
+| 15. Compress File/Directory                                      |
+| 16. Decompress File/Directory                                    |
+| 17. View Disk Space                                              |
+| 18. Check Disk Health                                            |
+| 19. Refresh Listing                                              |
+| 20. Logout                                                       |
+*********************************************************************
