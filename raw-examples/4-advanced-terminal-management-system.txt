@@ -1,0 +1,25 @@
+======================================================================
+|              Welcome to the Advanced Terminal Management System        |
+======================================================================
+|                                                                        |
+|  This comprehensive terminal management system provides an array of    |
+|  features for efficient control and monitoring of remote connections.  |
+|  Take advantage of its robust functionality to streamline your tasks   |
+|  and enhance your productivity.                                        |
+|                                                                        |
+======================================================================
+|                      Main Menu Options                                 |
+======================================================================
+|                                                                        |
+|  0 - Establish Connection to Remote Host                               |
+|  1 - View Connection History                                           |
+|  2 - Configure Terminal Settings                                       |
+|  3 - Manage Active Sessions                                            |
+|  4 - View System Information                                           |
+|  5 - Send Command                                                      |
+|  6 - Receive Data                                                      |
+|  7 - Access Help & Support                                             |
+|                                                                        |
+======================================================================
+|  Press 10 to Exit                                                      |
+======================================================================
