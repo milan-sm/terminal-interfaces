@@ -1,0 +1,24 @@
+######################################################################
+#                         Console Interface                          #
+######################################################################
+#                                                                    #
+#   Welcome to the Console Interface for Advanced Operations.        #
+#   Explore the FTP features and manage your files efficiently.      #
+#                                                                    #
+######################################################################
+#                          Main Menu Options                         #
+######################################################################
+#                                                                    #
+#   1 - Connect to FTP Server                                        #
+#   2 - Upload File to Server                                        #
+#   3 - Download File from Server                                    #
+#   4 - List Files on Server                                         #
+#   5 - Create Directory on Server                                   #
+#   6 - Delete File on Server                                        #
+#   7 - Rename File on Server                                        #
+#   8 - Change Directory on Server                                   #
+#   9 - View Server Status                                           #
+#                                                                    #
+######################################################################
+#                           Press 10 to Exit                         #
+######################################################################
